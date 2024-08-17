@@ -36,6 +36,13 @@ Clearly articulate the specific question you want to answer with your dataset.
 - Census data
 - Geographic information systems (GIS) data
 
+### 3. Data Collection
+#### Gather data from identified sources:
+- Download datasets in appropriate formats (CSV, Excel, etc.)
+- Collect data through APIs or web scraping (if necessary)
+- Ensure data privacy and ethical considerations are followed
+
+
 
 
 
