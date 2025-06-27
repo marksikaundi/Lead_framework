@@ -6,7 +6,7 @@ This repository contains information about the lead poisoning crisis in Kabwe, Z
 
 The uncontrolled release of lead into the environment has resulted in widespread lead poisoning among the population, particularly children. High levels of lead in children's blood have been linked to severe health issues, including developmental delays, learning disabilities, and behavioral problems.
 
-## Data and Resources
+## Data and Resources  
 
 Data:
 Blood lead levels in children and adults
